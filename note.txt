@@ -1,0 +1,3 @@
+cd for change directry (folder)
+npm to start ract
+rfc to cerate component at first
