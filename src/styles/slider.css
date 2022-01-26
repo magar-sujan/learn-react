@@ -1,0 +1,12 @@
+.slider-item{
+    margin-bottom: 20px;
+}
+.slider-item img{
+    height: 400px;
+    object-fit: cover;
+}
+.slider-item .slider-quote{
+    background-color: rgb(88, 88, 235);
+    padding: 5px;
+    color: white;
+}
